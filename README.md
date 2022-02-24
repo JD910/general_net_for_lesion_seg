@@ -28,6 +28,4 @@
   > 
   > d_iter: The number of times the D network is trained per batch.
   > 
-  > gpu_ids: Number of your GPUs.
-  > 
   > Height and Width: Definition of the size of input images.
