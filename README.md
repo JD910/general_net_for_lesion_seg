@@ -1,5 +1,5 @@
 
-# A general approach for automatic segmentation of pneumonia, pulmonary nodule and tuberculosis on CT images
+# A general approach for automatic segmentation of pneumonia, pulmonary nodule and tuberculosis
 
 [![standard-readme compliant](https://img.shields.io/badge/Readme-standard-brightgreen.svg?style=flat-square)](https://github.com/JD910/ESLN/blob/main/README.md)
 ![](https://img.shields.io/badge/Pytorch-1.7.1-brightgreen.svg?style=flat-square)
