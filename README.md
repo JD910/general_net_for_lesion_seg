@@ -36,18 +36,18 @@
 
 **Fig. S1. Segmentation of a COVID-19 lesion with the CT manifestation of bilateral GGO. (a) Original images and segmentation obtained by (b) the proposed model and (c) radiologists.**<br />
 
-<div align=left><img width="610" height="338" src="https://github.com/JD910/general_net_for_lesion_seg/blob/main/GDModels/Fig_S2_non-covid-bilateralGGN.jpg"/></div><br />
+<div align=left><img width="800" height="479" src="https://github.com/JD910/general_net_for_lesion_seg/blob/main/GDModels/Fig_S2_non-covid-bilateralGGN.jpg"/></div><br />
 
 **Fig. S2. Segmentation of a non-COVID-19 lesion in which the CT manifestation is bilateral GGO. (a) Original images and segmentation obtained by (b) the proposed model and (c) radiologists.**<br />
 
-<div align=left><img width="358" height="380" src="https://github.com/JD910/general_net_for_lesion_seg/blob/main/GDModels/Fig_S3_Non-covid-Single.jpg"/></div><br />
+<div align=left><img width="800" height="479" src="https://github.com/JD910/general_net_for_lesion_seg/blob/main/GDModels/Fig_S3_Non-covid-Single.jpg"/></div><br />
 
 **Fig. S3. Segmentation of a non-COVID-19 lesion in which the CT manifestation are unilateral mixed GGO and consolidation. (a) Original images and segmentation obtained by (b) the proposed model and (c) radiologists.**<br />
 
-<div align=left><img width="358" height="380" src="https://github.com/JD910/general_net_for_lesion_seg/blob/main/GDModels/Fig_S4_JP.jpg"/></div><br />
+<div align=left><img width="800" height="479" src="https://github.com/JD910/general_net_for_lesion_seg/blob/main/GDModels/Fig_S4_JP.jpg"/></div><br />
 
 **Fig. S4. Juxta-pleural nodule segmentation results. (a) Original images and segmentation obtained by (b) the proposed model and (c) radiologists. Nodule is marked with arrows.**<br />
 
-<div align=left><img width="358" height="380" src="https://github.com/JD910/general_net_for_lesion_seg/blob/main/GDModels/Fig_S5_JV.jpg"/></div><br />
+<div align=left><img width="800" height="479" src="https://github.com/JD910/general_net_for_lesion_seg/blob/main/GDModels/Fig_S5_JV.jpg"/></div><br />
 
 **Fig. S5. Juxta-vascular nodule results. (a) Original images and segmentation obtained by (b) the proposed model and (c) radiologists. False positives that can be recognized by the naked eye in b(3) are marked with arrow. However, two other nodules that are not delineated by the radiologist in b(5) are recognized by the proposed model (with arrow)**<br />
